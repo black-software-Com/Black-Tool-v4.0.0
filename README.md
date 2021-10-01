@@ -183,5 +183,9 @@ python3 uninstall.py
 
 #### [Read](https://github.com/mrprogrammer2938/Black-Tool-Read)...
 
+##### [Black-Tool](https://github.com/black-software-Com/Black-Tool/tree/main/Core/Black-Tool-Termux) For [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)
+
+##### [Black-Tool](https://github.com/black-software-Com/Black-Tool/tree/main/Core/Ruby-File-Windows)
+
 #### [Github.Io](https://mrprogrammer2938.github.io/Black-Tool)
 <br>
