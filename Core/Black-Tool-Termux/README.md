@@ -1,6 +1,6 @@
 Black-Tool For Termux
 
-```Black-Tool 2.0.0```
+```Black-Tool v4.0.0```
 
 Install the tools and start hacking Attacking !
 ```
@@ -37,7 +37,7 @@ bash install.sh
 
 *Start*
 ```
-hack
+python3 hack
 ```
 <br>
 
@@ -50,3 +50,4 @@ hack
 [Instagram](https://instagram.com/programmer2938)
 
 [Pinterest](https://www.pinterest.com/mrprogrammer2938)
+<br>
